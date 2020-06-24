@@ -13,15 +13,16 @@ Barra de Tijuca es una zona moderna con muy buenas playas, en los últimos años
 Para mi estancia en Rio, yo elegí el Hotel Rio Othon Palace en Copacabana. Hotel de presupuesto medio que ofrece excelentes vistas, toallas y sillas para los días de playa, buen servicio y desayuno bufet. Es un hotel que se vende como 5 estrellas, pero que realmente tiende a ser 4 estrellas. El edificio es algo viejo y así mismo las habitaciones. Es muy recomendable debido al costo beneficio, a su desayuno y a su excelente ubicación.
 
 ## Transporte en rio de janeiro
+
 Rio cuenta con una buena cantidad de opciones para moverse dentro de la ciudad: Bus (ônibus), Metro, BRT, Tren ligero, taxis y Uber (el cual funciona muy bien).
 \
 No es recomendable alquilar un carro para moverte dentro de Rio, ya que los medios anteriormente mencionados llegan a todos los lugares turísticos dentro de la ciudad, sin contar que Rio tiene un tráfico algo pesado.
 \
 La tarjeta Rio Card permite el uso de todos los medios de transporte público de Rio, esta tarjeta se puede obtener en estantes ubicados en algunas estaciones de metro. Dicha tarjeta no es necesaria si lo único que vas a usar es Metro o bus (ônibus), ya que el ônibus se puede pagar en efectivo y en cada estación de metro se puede adquirir una tarjeta unitaria la cual a la hora de ponerla en el torniquete, la maquina se queda con ella.
 \
-Como recomendación, es bueno chequear la tarifa de Uber vs la tarifa de metro o bus  (teniendo en cuenta la cantidad de personas). Ya que en muchas ocasiones las tarifas no tienen mucha diferencia, pero se va a ahorrar mucho tiempo con Uber.
+Como recomendación, es bueno chequear la tarifa de Uber vs la tarifa de metro o bus (teniendo en cuenta la cantidad de personas). Ya que en muchas ocasiones las tarifas no tienen mucha diferencia, pero se va a ahorrar mucho tiempo con Uber.
 \
-Por último, desde y hasta el aeropuerto  también existen varias opciones de transporte. Se puede tomar un ônibus al que llaman Frescão (ruta 2016), un bus de color azul que se paga en efectivo y pasa por los principales puntos turísticos de Rio. Lo bueno: es económico (a la fecha 17$R). Lo malo: yo lo tome a las 7 de la mañana, y llegue a Copacabana sobre las 10 (casi 3 horas). Por otro lado están los taxis autorizados, que son mucho más rápidos pero que a la fecha cuesta alrededor de 100$R.
+Por último, desde y hasta el aeropuerto también existen varias opciones de transporte. Se puede tomar un ônibus al que llaman Frescão (ruta 2016), un bus de color azul que se paga en efectivo y pasa por los principales puntos turísticos de Rio. Lo bueno: es económico (a la fecha 17$R). Lo malo: yo lo tome a las 7 de la mañana, y llegue a Copacabana sobre las 10 (casi 3 horas). Por otro lado están los taxis autorizados, que son mucho más rápidos pero que a la fecha cuesta alrededor de 100$R.
 
 ## Comida en rio de janeiro
 
@@ -29,71 +30,80 @@ La oferta de comida en Rio es muy variada, desde puestos de calle hasta restaura
 
 A continuación una selección de restaurantes que tuve la oportunidad de visitar:
 
-+ **Bibi sucos:** Hay varias sedes en Rio, sirven muy buenos desayunos y jugos.
+- **Bibi sucos:** Hay varias sedes en Rio, sirven muy buenos desayunos y jugos.
 
-+ **Café e Bar Stalos:** En Copacabana, este restaurante tiene una gran variedad de comida brasileña. Recomendada la Picaña.
+- **Café e Bar Stalos:** En Copacabana, este restaurante tiene una gran variedad de comida brasileña. Recomendada la Picaña.
 
-+ **Barraca da Chiquita:** ¡Recomendadisimo! El plato estrella de este sitio es la Sun dried picaña, es un plato para compartir entre 2. Es delicioso y muy llenador.
+- **Barraca da Chiquita:** ¡Recomendadisimo! El plato estrella de este sitio es la Sun dried picaña, es un plato para compartir entre 2. Es delicioso y muy llenador.
 
-+ **Casa da Feijoada:** Fui allí en busca de la mejor feijoada de Rio, la atención no fue buena. Se demoraron más de una hora en servir el plato. Cuando llego, la cantidad de comida es impresionante. Es un plato para 2 personas, pero al parecer allí no dejan compartir. Por ende, con una sola persona que pida este plato y otra persona un plato más sencillo y económico está bien. Al final nos llevaron mal la cuenta cobrándonos de más. No volvería.
+- **Casa da Feijoada:** Fui allí en busca de la mejor feijoada de Rio, la atención no fue buena. Se demoraron más de una hora en servir el plato. Cuando llego, la cantidad de comida es impresionante. Es un plato para 2 personas, pero al parecer allí no dejan compartir. Por ende, con una sola persona que pida este plato y otra persona un plato más sencillo y económico está bien. Al final nos llevaron mal la cuenta cobrándonos de más. No volvería.
 
-+ **Quioscos en la playa de Copacabana:** Por toda la playa de Copacabana se pueden ver varios quioscos de playa. Oh sorpresa cuando entre y me di cuenta que son restaurantes con comida elaborada y muy rica. Es recomendable ir a la hora de la cena, donde el ambiente nocturno de playa acompañado de música en vivo, hace de esto una experiencia única.
+- **Quioscos en la playa de Copacabana:** Por toda la playa de Copacabana se pueden ver varios quioscos de playa. Oh sorpresa cuando entre y me di cuenta que son restaurantes con comida elaborada y muy rica. Es recomendable ir a la hora de la cena, donde el ambiente nocturno de playa acompañado de música en vivo, hace de esto una experiencia única.
 
-![Sun dried picaña](./picana.png)
+![Sun dried picaña](https://github.com/leonardo2h/rviajero-blog-posts/blob/master/rio-de-janeiro/picana.png)
 
 ## Que visitar en rio de janeiro
 
 Además del famoso carnaval de Rio de Janeiro o uno de los festivales de música más importantes del mundo (Rock in Rio). Rio de Janeiro cuenta con una serie de atracciones muy interesantes para visitar. A continuación una selección de lugares agrupados por vecindarios:
 \
 **Centro & Praca Maua:**
-+ Boulevard olímpico
-+ Museo de arte de Rio
-+ Museo del mañana
-+ Monasterio de San Benito
-+ Praça XV de Novembro
-+ Cinelândia square
-+ Rio scenarium
+
+- Boulevard olímpico
+- Museo de arte de Rio
+- Museo del mañana
+- Monasterio de San Benito
+- Praça XV de Novembro
+- Cinelândia square
+- Rio scenarium
 
 **Santa Teresa & Lapa:**
-+ Catedral metropolitana
-+ Arcos da Lapa
-+ Escaleras de selaron
-+ Parque das Ruinas
+
+- Catedral metropolitana
+- Arcos da Lapa
+- Escaleras de selaron
+- Parque das Ruinas
 
 **Gavea, Jardim Botanico & Lagoa:**
-+ Parque Lage
-+ Jardim Botanico
-+ Rodrigo de Freitas Lagoon
+
+- Parque Lage
+- Jardim Botanico
+- Rodrigo de Freitas Lagoon
 
 **Ipanema & Leblon:**
-+ Playa Ipanema
-+ Garota de Ipanema Park
-+ Pedra do Arpoador
+
+- Playa Ipanema
+- Garota de Ipanema Park
+- Pedra do Arpoador
 
 **Copacabana & leme**
-+ Forte de Copacabana
-+ Playa Copacabana
+
+- Forte de Copacabana
+- Playa Copacabana
 
 **Barra da Tijuca & Western Rio:**
-+ Playa de barra da Tijuca
-+ Museo de la selección Brasil
-+ Ciudad olímpica
-+ Pedra do telégrafo
-+ Prainha Beach
+
+- Playa de barra da Tijuca
+- Museo de la selección Brasil
+- Ciudad olímpica
+- Pedra do telégrafo
+- Prainha Beach
 
 **Zona Norte:**
-+ Estadio maracaná
-+ Acadêmicos do Salgueiro
+
+- Estadio maracaná
+- Acadêmicos do Salgueiro
 
 **Botafogo & Urca:**
-+ Pan de azúcar
+
+- Pan de azúcar
 
 **Flamengo:**
-+ Cristo Redentor
+
+- Cristo Redentor
 
 Usualmente las atracciones que ofrece el Centro y Lapa se pueden recorrer caminando. Es importante fijarse bien que calles transitar y usar el sentido común para no estar expuesto a alguna situación de inseguridad. La idea es que este recorrido se haga en el día. En los **arcos de Lapa** hay presencia de policías la mayoría del tiempo.
 \
-La zona de  Lapa es denominada como epicentro de la samba, y uno de los sitios más recomendados para vivir una noche llena de música brasileña es **Rio scenarium**. Al quedar en Lapa y tener que visitarse de noche, es recomendable ir en Uber o Taxi. Al salir de allí a altas horas de la noche es fácil conseguir taxi de regreso, Uber también llegan fácilmente a esta locación.
+La zona de Lapa es denominada como epicentro de la samba, y uno de los sitios más recomendados para vivir una noche llena de música brasileña es **Rio scenarium**. Al quedar en Lapa y tener que visitarse de noche, es recomendable ir en Uber o Taxi. Al salir de allí a altas horas de la noche es fácil conseguir taxi de regreso, Uber también llegan fácilmente a esta locación.
 \
 Desde las **escaleras de selaron**, atravesando el residencial y más seguro barrio de **Santa Teresa**, se puede llegar al **Parque das Ruinas**. Una casa en ruinas con acceso gratuito que ofrece unas vistas magnificas de Rio de Janeiro.
 \
@@ -109,7 +119,7 @@ Sin lugar a duda uno de los atractivos más relevantes de Rio son sus playas. Qu
 \
 Otra actividad bastante recomendable que se puede hacer en Copacabana es recorrer el paseo que se extiende por todo el borde de la playa. Este se puede hacer caminando o utilizando su ciclo carril mediante bicicleta o patinetas eléctricas. Rio tiene una red de bicicletas que se pueden alquilar por 8$R el día y se retiran de unos parqueaderos ubicados en diferentes partes de la ciudad. También abundan patinetas eléctricas de la aplicación Lime que se pueden alquilar para realizar este excelente recorrido.
 \
-Al finalizar Copacabana e iniciar **Ipanema**, se puede encontrar el **Forte de Copacabana**. El costo del ingreso es de 6$R. Merece más la pena pagar este monto por las vistas que se logran desde este punto que por el museo. Tiene información solo en portugués y cuenta la historia de la construcción de los fuertes presentes en todo Rio.
+Al finalizar Copacabana e iniciar **Ipanema**, se puede encontrar el **Forte de Copacabana**. El costo del ingreso es de 6\$R. Merece más la pena pagar este monto por las vistas que se logran desde este punto que por el museo. Tiene información solo en portugués y cuenta la historia de la construcción de los fuertes presentes en todo Rio.
 \
 Hay quienes dicen que la **playa de Ipanema** es mejor que la de Copacabana. Lo mejor es ir a descubrirlo por su propia cuenta. A mi parecer son muy similares, con los mismos servicios y paseos muy parecidos. Lo que si no te deberías perder, es disfrutar de un magnifico atardecer sentado en la **Pedra do Arpoador**. Se puede aprovechar para visitar el **parque Garota de Ipanema**.
 
