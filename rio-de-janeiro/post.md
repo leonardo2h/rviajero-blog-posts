@@ -40,7 +40,7 @@ A continuación una selección de restaurantes que tuve la oportunidad de visita
 
 - **Quioscos en la playa de Copacabana:** Por toda la playa de Copacabana se pueden ver varios quioscos de playa. Oh sorpresa cuando entre y me di cuenta que son restaurantes con comida elaborada y muy rica. Es recomendable ir a la hora de la cena, donde el ambiente nocturno de playa acompañado de música en vivo, hace de esto una experiencia única.
 
-![Sun dried picaña](https://github.com/leonardo2h/rviajero-blog-posts/blob/master/rio-de-janeiro/picana.png)
+![Sun dried picaña](https://leonardo2h.github.io/rviajero-blog-posts/rio-de-janeiro/picana.png)
 
 ## Que visitar en rio de janeiro
 
