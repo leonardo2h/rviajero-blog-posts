@@ -109,7 +109,7 @@ Desde las **escaleras de selaron**, atravesando el residencial y más seguro bar
 \
 En la zona norte tenemos dos atracciones indispensables si se quiere tener una inmersión en la cultura carioca. El famoso **estadio maracaná** que ofrece tures con guía o sin guía y que contara la historia de los acontecimientos más relevantes del recinto. Al final vas a poder poner los pies en una de las canchas más importantes del futbol mundial. Hay una estación de metro frente al estadio, lo que facilitara la llegada a esta atracción. Incluso si se quiere ir a un partido de unos de los 4 equipos de futbol que tiene Rio.
 
-![Estadio Maracaná](./maracana.png)
+![Estadio Maracaná](https://leonardo2h.github.io/rviajero-blog-posts/rio-de-janeiro/maracana.png)
 
 Para quienes no tengan la fortuna de ir en época de **carnaval** (como yo), existe una posibilidad de poder presenciar los ensayos de alguna de las escuelas de samba que participaran de este magno evento. Una de las escuelas más reconocidas y galardonadas del carnaval es **Acadêmicos do Salgueiro**. Esta academia tiene toda una infraestructura montada en una gran bodega con tarima profesional y sitios para comer. Se paga cover a la entrada que a la fecha cuesta 40$R. Estando adentro se pueden pagar otros 20$R si se quiere alquilar una mesa para hasta 4 personas.
 \
@@ -123,7 +123,7 @@ Al finalizar Copacabana e iniciar **Ipanema**, se puede encontrar el **Forte de 
 \
 Hay quienes dicen que la **playa de Ipanema** es mejor que la de Copacabana. Lo mejor es ir a descubrirlo por su propia cuenta. A mi parecer son muy similares, con los mismos servicios y paseos muy parecidos. Lo que si no te deberías perder, es disfrutar de un magnifico atardecer sentado en la **Pedra do Arpoador**. Se puede aprovechar para visitar el **parque Garota de Ipanema**.
 
-![Atardecer en Pedra do Arpoador](./sunset.png)
+![Atardecer en Pedra do Arpoador](https://leonardo2h.github.io/rviajero-blog-posts/rio-de-janeiro/sunset.png)
 
 En el sector de Botafogo & Urca nos encontramos con una de las atracciones top de Rio. **Pan de azúcar** es sin duda un símbolo de la ciudad maravillosa. Lo recomendable es ir al atardecer, pero sin duda a cualquier hora de un día despejado va a ofrecer vistas hermosas de Rio. Si se compran los tiquetes en una de las máquinas expendedoras presentes en la estación del Bondinho con tarjeta de crédito, te ahorras el 10%.
 \
